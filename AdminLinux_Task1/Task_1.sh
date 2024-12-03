@@ -8,4 +8,3 @@ touch myNotePaper
 cp myNotePaper ~/myDirectory
 cd ~/myDirectory
 mv myNotePaper myOldNotePaper
-
